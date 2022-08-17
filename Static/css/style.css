@@ -1,0 +1,21 @@
+body {
+    color:rgb(0, 0, 0);
+}
+.well {
+    background-color: #dbdbdb;
+    border-style: groove;
+    font-size: 20px;
+}
+.panel-title {
+    font-size: 15px;
+    color: #ffffff;
+}
+.panel-body {
+    background-color: #efeaeb;
+    font-size: 15px;
+}
+.jumbotron {
+    background-image: url("/Static/images/bellybutton.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
